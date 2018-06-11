@@ -1,11 +1,4 @@
 Hihi
 <<<<<<< HEAD
-<<<<<<< HEAD
-2 neu bay goo muon them thi sao
-pull ve nhu the nao
-vay co nhanh hon khong
-=======
->>>>>>> parent of 84d8929... add new text fileF
-=======
-cai nay moi them ne
+sdsfasdfasS
 >>>>>>> parent of d36e581... Revert "add new text fileF"
