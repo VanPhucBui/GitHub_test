@@ -1,4 +1,3 @@
 Hihi
-<<<<<<< HEAD
 sdsfasdfasS
->>>>>>> parent of d36e581... Revert "add new text fileF"
+dfdghdgh
